@@ -5,7 +5,8 @@ Kelas : TI.24.A.5 <p>
 Mata kuliah : Bahasa Pemrograman <p>
 # ```Program Input Nilai```
 ## Flowchart
-![gambar 5](screenshot/ft5.png)
+![gambar 5](https://github.com/user-attachments/assets/4bbc752f-3df3-435f-b739-dd67f4dea24b)
+
 ## Code Program
 ![gambar 1](program1.png)
 ![gambar 2](program2.png)

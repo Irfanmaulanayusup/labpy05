@@ -86,7 +86,7 @@ Mata kuliah : Bahasa Pemrograman <p>
                        print("Data baru:")
                        nama = input("Nama: ")
                        tugas = int(input("Nilai Tugas: "))
-                       uts = int(input("Nilai UTS: "))
+                       uts = in(input("Nilai UTS: "))
                        uas = int(input("Nilai UAS: "))
                        students[index] = Student(nim, nama, tugas, uts, uas)
                    else:
